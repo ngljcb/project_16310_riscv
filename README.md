@@ -58,7 +58,7 @@ This README description outlines the functionality, input handling, command form
 <img src="./assets/riscv.gif" width="100%" >
 
 ## Test - Video Demo
-[![Watch the video](./assets/thumbnail.png)](./assets/tests.mov)
+[![Watch the video](./assets/thumbnail.png)](./assets/tests.mp4)
 
 ## Documentation & Repository
 You can download the complete documentation <a href="documentation.pdf">here</a>. The repository is available <a href="https://github.com/ngljcb/project_16310_riscv">here</a> for browsing all the project resources.
