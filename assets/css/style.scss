@@ -15,7 +15,6 @@ html, page, window {
 
 button,
 select,
-textarea,
 [contenteditable="true"],
 :root, html, page, window, *,
 input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
@@ -26,8 +25,7 @@ a *,
 input *,
 button *,
 select *,
-optgroup *,
-textarea * {
+optgroup * {
   background-color: transparent !important;
 }
 
@@ -49,7 +47,6 @@ input[type="range"] {
 
 button,
 select,
-textarea,
 [contenteditable="true"],
 input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
   opacity: 1 !important;
@@ -62,15 +59,8 @@ input:not([type="checkbox"]):not([type="radio"]):not([type="range"]) {
   transition-property: border-color, box-shadow !important;
 }
 
-textarea,
-[contenteditable="true"],
-input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="button"]):not([type="color"]):not([type="image"]):not([type="reset"]):not([type="submit"]) {
-  background-image: none !important;
-}
-
 select:focus,
 button:focus,
-textarea:focus,
 input[type="color"]:focus,
 input[type="image"]:focus,
 input[type="reset"]:focus,
