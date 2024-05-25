@@ -61,4 +61,4 @@ This README description outlines the functionality, input handling, command form
 [![Watch the video](./assets/thumbnail.png)](./assets/tests.mp4)
 
 ## Documentation & Repository
-You can download the complete documentation <a href="documentation.pdf">here</a>. The repository is available <a href="https://github.com/ngljcb/project_16310_riscv">here</a> for browsing all the project resources.
+You can download the complete documentation <a href="documentation.pdf" target="_blank">here</a>. The repository is available <a href="https://github.com/ngljcb/project_16310_riscv" target="_blank">here</a> for browsing all the project resources.
